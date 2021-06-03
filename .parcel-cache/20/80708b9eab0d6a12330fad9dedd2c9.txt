@@ -1,0 +1,11 @@
+10
+54C:\Users\yana\Desktop\QH-1\dist\index.eaa145d4.css.map132671984881401992 0
+50C:\Users\yana\Desktop\QH-1\dist\index.eaa145d4.css132671984881331760 0
+31C:\Users\yana\Desktop\QH-1\dist132671984881421815 1
+40C:\Users\yana\Desktop\QH-1\SRC\style.css132671898688980532 0
+30C:\Users\yana\Desktop\QH-1\SRC132671874387429956 1
+49C:\Users\yana\Desktop\QH-1\dist\index.ad0935c5.js132671984881331760 0
+41C:\Users\yana\Desktop\QH-1\SRC\index.html132671941696799161 0
+38C:\Users\yana\Desktop\QH-1\SRC\main.js132671895748758738 0
+53C:\Users\yana\Desktop\QH-1\dist\index.ad0935c5.js.map132671984881411808 0
+42C:\Users\yana\Desktop\QH-1\dist\index.html132671984881321883 0
